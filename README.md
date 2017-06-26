@@ -1,2 +1,2 @@
-# React-Resource
+# React Resources
 http://www.react.express/
