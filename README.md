@@ -1,4 +1,7 @@
 # React Resources
+I created this repo to collect useful React resources
+The document will be updated to be more structured
+
 ## Learn React
 http://www.react.express/
 
