@@ -3,6 +3,8 @@ I created this repo to collect useful React resources
 The document will be updated to be more structured
 
 ## Learn React
+https://facebook.github.io/react/docs/installation.html
+
 http://www.react.express/
 
 https://github.com/markerikson/react-redux-links
