@@ -12,6 +12,10 @@ https://github.com/markerikson/react-redux-links
 ## Learn React Native
 [React Native](./ReactNative.md)
 
+## Other React Resource Collections
+[Awesome React](https://github.com/enaqx/awesome-react)
+[React Redux Links](https://github.com/markerikson/react-redux-links/)
+
 ## React Interview
 https://www.toptal.com/react/interview-questions
 
