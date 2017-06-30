@@ -40,4 +40,4 @@ https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
 https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
 
-[Where to fetch data](https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/)
+[Where to fetch data (ComponentWillMount vs ComponentDidMount)](https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/)
