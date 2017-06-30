@@ -2,6 +2,8 @@
 ## Learn React
 http://www.react.express/
 
+https://github.com/markerikson/react-redux-links
+
 ## React Interview
 https://www.toptal.com/react/interview-questions
 
@@ -15,3 +17,12 @@ https://www.udemy.com/react-redux/learn/v4/overview
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
 
 https://www.udemy.com/react-redux-tutorial/
+
+## React best practices
+https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md
+
+https://github.com/markerikson/react-redux-links/blob/master/tips-and-best-practices.md
+
+https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
+
+https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
