@@ -54,4 +54,5 @@ http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js
 
 ## Frontend news update
 [Up to date frontend rescue](https://uptodate.frontendrescue.org/)
+
 [Developers to follow](https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151)
