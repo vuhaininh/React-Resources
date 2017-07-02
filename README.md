@@ -47,3 +47,6 @@ http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js
 ## Utilities
 
 [Pace Loading](http://github.hubspot.com/pace/docs/welcome/)
+
+## Webpack
+[Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack#webpack-examples)
