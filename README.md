@@ -2,7 +2,7 @@
 I created this repo to collect useful React resources
 The document will be updated to be more structured
 ## Topnotch resources
-[Awesome](https://github.com/sindresorhus/awesome) Everything about Software development resouce
+[Awesome](https://github.com/sindresorhus/awesome) Everything about Software development resources
 ## Learn React
 https://facebook.github.io/react/docs/installation.html
 
