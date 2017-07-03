@@ -56,3 +56,7 @@ http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js
 [Up to date frontend rescue](https://uptodate.frontendrescue.org/)
 
 [Developers to follow](https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151)
+
+## Functional Programming
+
+[Functional programming React](https://medium.com/@alex_picprod/functional-programming-and-react-3a2a69b83d45)
