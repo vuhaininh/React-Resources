@@ -60,3 +60,5 @@ http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js
 ## Functional Programming
 
 [Functional programming React](https://medium.com/@alex_picprod/functional-programming-and-react-3a2a69b83d45)
+
+[Functional Light JS](https://github.com/getify/Functional-Light-JS)
