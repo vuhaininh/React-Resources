@@ -42,6 +42,8 @@ https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
 
 [Where to fetch data (ComponentWillMount vs ComponentDidMount)](https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/)
+[10 tips for Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+[App Architecture](https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00)
 
 http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/ 
 
