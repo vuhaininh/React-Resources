@@ -49,6 +49,8 @@ https://engineering.musefind.com/our-best-practices-for-writing-react-components
 
 http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/ 
 
+[Why Immutability](https://stackoverflow.com/questions/34385243/why-is-immutability-so-importantor-needed-in-javascript)
+
 ## Utilities
 
 [Pace Loading](http://github.hubspot.com/pace/docs/welcome/)
