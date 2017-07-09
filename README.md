@@ -51,6 +51,8 @@ http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js
 
 [Why Immutability](https://stackoverflow.com/questions/34385243/why-is-immutability-so-importantor-needed-in-javascript)
 
+[Javascript good readings](https://medium.com/javascript-scene/what-s-better-than-a-college-degree-mentorship-e22de630601a)
+
 ## Utilities
 
 [Pace Loading](http://github.hubspot.com/pace/docs/welcome/)
