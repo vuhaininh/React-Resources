@@ -10,6 +10,10 @@ http://www.react.express/
 
 https://github.com/markerikson/react-redux-links
 
+## React Immutability 
+
+[React and Immutable JS](http://www.mattzeunert.com/2015/09/16/react-and-immutable.html)
+
 ## Learn React Native
 [React Native](./ReactNative.md)
 
