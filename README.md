@@ -37,6 +37,12 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 https://www.udemy.com/react-redux-tutorial/
 
 ## React best practices
+[Redux project structure part 1)](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
+
+[Redux project structure part 2)](https://jaysoo.ca/2016/02/28/applying-code-organization-rules-to-concrete-redux-code/)
+
+[Redux project structure part 3)](https://jaysoo.ca/2016/12/12/additional-guidelines-for-project-structure/)
+
 https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md
 
 https://github.com/markerikson/react-redux-links/blob/master/tips-and-best-practices.md
